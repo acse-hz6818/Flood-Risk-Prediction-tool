@@ -86,3 +86,10 @@ python -m score
 ```
 
 in the main repository directory.
+
+## Authors
+
+* Sotiris Gkoulimaris
+*  He Zhu
+*  Nicolas Trinephi
+* Lingaona Zhu
